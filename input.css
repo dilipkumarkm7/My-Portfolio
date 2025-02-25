@@ -1,0 +1,13 @@
+@import "tailwindcss";
+*{
+     margin: 0;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     box-sizing: border-box;
+     scroll-behavior: smooth;
+}
+.bg-color{
+     background-color: #ffca00;
+}
+.number-font{
+     font-family: sans-serif;
+}
